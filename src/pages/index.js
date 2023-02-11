@@ -5,7 +5,7 @@ export default function Home() {
   const todos = [
     { title: 'Todo 1', description: 'Todo 1 description'},
     { title: 'Todo 2', description: 'Todo 2 description'},
-    { title: 'Todo ', description: 'Todo 2 description'},
+    { title: 'Todo 3', description: 'Todo 2 description'},
   ]
   
   return (
